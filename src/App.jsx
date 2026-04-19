@@ -181,7 +181,8 @@ function App() {
                   What brand is your Microwave
                 </h2>
                 <p className="max-w-xl text-slate-300 sm:text-lg">
-                  A tiny test before we move on — no pressure, just a fun loop.
+                  Answer correctly or u'll never leave this page{" "}
+                  <span aria-hidden="true">😈</span>
                 </p>
               </div>
 
